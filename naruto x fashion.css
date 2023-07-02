@@ -1,0 +1,39 @@
+.logo {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'acier-solid';
+}
+
+.start {
+    font-family: 'acier-solid';
+    text-align: center;
+    font-weight: normal;
+    font-size: 75px;
+}
+
+@font-face {
+    src: url("Font/Acier/aciertext-solid.otf");
+    font-family: 'acier-solid';
+}
+
+@font-face {
+    src: url("Font/Europa Nuova/EuropaNuovaRegular.ttf");
+    font-family: "Europa Nuova";
+}
+
+.footer {
+    padding-top: 225px;
+    padding-bottom: 30px;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: "Europa Nuova"
+}

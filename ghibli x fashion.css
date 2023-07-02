@@ -1,0 +1,75 @@
+.logo {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'acier-solid';
+}
+
+.start {
+    font-family: 'acier-solid';
+    text-align: center;
+    font-weight: normal;
+    font-size: 75px;
+}
+
+@font-face {
+    src: url("Font/Acier/aciertext-solid.otf");
+    font-family: 'acier-solid';
+}
+
+@font-face {
+    src: url("Font/Europa Nuova/EuropaNuovaRegular.ttf");
+    font-family: "Europa Nuova";
+}
+
+.footer {
+    padding-top: 225px;
+    padding-bottom: 30px;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: "Europa Nuova"
+}
+
+.conteiner {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.item1 {
+    width: 1000px;
+    height: 1000px;
+    background-position-y: center;
+    background-position-x: center;
+    background-image: url("PICTURE/X FASHION/GHIBLI X FASHION/01.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.item2 {
+    width: 1000px;
+    height: 1000px;
+    background-position-y: center;
+    background-position-x: center;
+    background-image: url("PICTURE/X FASHION/GHIBLI X FASHION/02.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}

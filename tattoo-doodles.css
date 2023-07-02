@@ -1,0 +1,114 @@
+.logo {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.start {
+    font-family: 'acier-solid';
+    text-align: center;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url("Font/Acier/aciertext-solid.otf");
+    font-family: 'acier-solid';
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: "Europa Nuova"
+}
+
+@font-face {
+    src: url("Font/Europa Nuova/EuropaNuovaRegular.ttf");
+    font-family: "Europa Nuova";
+}
+
+.conteiner {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.footer {
+    padding-top: 225px;
+    padding-bottom: 30px;
+}
+
+.item1 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.item2 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item3 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item4 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item5 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item6 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item7 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item8 {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item9 {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
